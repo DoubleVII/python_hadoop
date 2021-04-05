@@ -36,7 +36,7 @@
 1. 克隆仓库到本地
 
 ```
-git clone https://github.com/DoubleVII/MapReduce
+git clone https://github.com/DoubleVII/python_hadoop
 ```
 2. `demo_wordcount.py`提供了一个简单的WordCount示例，运行demo
 ```
