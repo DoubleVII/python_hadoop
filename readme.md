@@ -48,6 +48,4 @@ python demo_wordcount.py
 [说明文档](/doc/README.md)介绍了基本的搭建MapReduce任务的方法以及各种扩展功能。
 
 ## 作业
-### Part I
-### Part II
-### Part III
+吓唬你的，作业在教学立法上，也没这么复杂。
