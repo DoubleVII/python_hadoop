@@ -1,5 +1,5 @@
 
-# Pythonic Map-Reduce
+# Pythonic Hadoop
 本项目使用Python模拟了Hadoop运行环境，采用与Hadoop相似的API，可以使用Python完成MapReduce任务（job）。
 
 ## 背景
